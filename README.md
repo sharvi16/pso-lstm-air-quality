@@ -24,9 +24,3 @@ The project uses the [Air Quality Data Set](https://archive.ics.uci.edu/ml/datas
 ## Results
 
 The optimized model achieves an R² score of approximately **0.767** on the test set.
-
-## Usage
-
-1. Clone the repository.
-2. Install dependencies: `pandas`, `numpy`, `tensorflow`, `scikit-learn`, `matplotlib`, `seaborn`.
-3. Run the `pso+lstm/main.ipynb` notebook.
