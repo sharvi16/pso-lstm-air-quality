@@ -54,7 +54,7 @@ A custom **Particle Swarm Optimization (PSO)** algorithm was implemented to tune
 | Model                 | R² Score  | MAE       |
 | --------------------- | --------- | --------- |
 | Baseline Stacked LSTM | ***0.693***   | ***17.95***   |
-| PSO-Optimized LSTM    | **0.767** | **14.38** |
+| PSO-Optimized LSTM    | **0.763** | **14.38** |
 
 The PSO-optimized model outperforms the baseline LSTM by achieving **higher R²** and **lower MAE**, demonstrating the effectiveness of PSO for deep learning hyperparameter optimization.
 
